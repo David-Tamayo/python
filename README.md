@@ -9,3 +9,14 @@ crear entorno virtual
 entrar al entorno vitual
 
 ``` source nombre_del_entorno_virtual/bin/activate ```
+
+ver versiones de python en el sistema
+
+> ls /usr/bin/python* 
+
+ver versión de python utilizada
+python --version 
+
+cambiar de versión de python (ejemplo a python 3.4)
+alias python='/usr/bin/python3.4'
+$ . ~/.bashrc
