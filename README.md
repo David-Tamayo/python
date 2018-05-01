@@ -19,5 +19,7 @@ ver versión de python utilizada
 ``` python --version ```
 
 cambiar de versión de python (ejemplo a python 3.4)
-``` alias python='/usr/bin/python3.4'
-    $ . ~/.bashrc ```
+
+``` alias python='/usr/bin/python3.4' ```
+
+``` $ . ~/.bashrc ```
