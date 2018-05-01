@@ -12,11 +12,12 @@ entrar al entorno vitual
 
 ver versiones de python en el sistema
 
-> ls /usr/bin/python* 
+``` ls /usr/bin/python* ``` 
 
 ver versión de python utilizada
-python --version 
+
+``` python --version ```
 
 cambiar de versión de python (ejemplo a python 3.4)
-alias python='/usr/bin/python3.4'
-$ . ~/.bashrc
+``` alias python='/usr/bin/python3.4'
+    $ . ~/.bashrc ```
