@@ -22,4 +22,4 @@ cambiar de versión de python (ejemplo a python 3.4)
 
 ``` alias python='/usr/bin/python3.4' ```
 
-``` $ . ~/.bashrc ```
+``` . ~/.bashrc ```
