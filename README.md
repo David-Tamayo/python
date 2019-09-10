@@ -23,3 +23,7 @@ cambiar de versión de python (ejemplo a python 3.4)
 ``` alias python='/usr/bin/python3.4' ```
 
 ``` . ~/.bashrc ```
+
+copiar archivos desde terminal por antiguedad, N es el número de días y directory el directorio destino
+
+``` find . -type f -mtime N  -exec cp {} directory/ \; ```
